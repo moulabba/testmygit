@@ -1,0 +1,1 @@
+/nNombre de partie: 4 Nombre de tentative: 7 Nombre d'or: 73/n Nombre de partie: 5 Nombre de tentative: 8 Nombre d'or: 22  Nombre de partie: 6 Nombre de tentative: 1 Nombre d'or: 75 
