@@ -21,6 +21,8 @@ for (int i=0 ;i<=(table.length-2);i++)
                     table[j]=tmp;
             }
 
+System.out.println("testGIT");
+
 	}
 	
 
